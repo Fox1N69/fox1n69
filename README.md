@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang, Fiber, Gin ,NuxtJS, VueJS, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [Will be soon](Will be soon)
+- 👨‍💻 All of my projects are available at [Will be soon](Will be soon) .     <img src="./hello.gif" width="100" height="100"/>
 
 - 📫 How to reach me **diogoc1707@gmail.com, +79088755347, telegram - @fox1n69**
 
@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I think Golang is the future**
 
-<img src="./hello.gif" width="40" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
