@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./hello.gif" width="200" height="70" align="center" styles="border: 1px solid black; border-radius: 5px 5px 0 0"/> <br/> I'm Pavel Maksimovich</h1>
+<h1 align="center"><img src="./hello.gif" width="200" height="70" align="center" style="border-radius:50%"/> <br/> I'm Pavel Maksimovich</h1>
 <h3 align="center">I'am a junior software engineer.. My goal in this life is to develop useful software that will help most people. I have been interested in programming since I was 12 years old. I recently started learning Golang and decided to develop in the field of web development. I also study English hard to work abroad.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fox1n69" alt="fox1n69" /></a> </p>
