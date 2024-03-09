@@ -1,3 +1,4 @@
+<img src="./hello.gif" width="200" height="100"/>
 <h1 align="center">Hi 👋, I'm Pavel Maksimovich</h1>
 <h3 align="center">I'am a junior software engineer.. My goal in this life is to develop useful software that will help most people. I have been interested in programming since I was 12 years old. I recently started learning Golang and decided to develop in the field of web development. I also study English hard to work abroad.</h3>
 
@@ -7,14 +8,13 @@
 
 - 🌱 I’m currently learning **Golang, Fiber, Gin ,NuxtJS, VueJS, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [Will be soon](Will be soon) .     <img src="./hello.gif" width="100" height="100"/>
+- 👨‍💻 All of my projects are available at [Will be soon](Will be soon)
 
 - 📫 How to reach me **diogoc1707@gmail.com, +79088755347, telegram - @fox1n69**
 
 - 📄 Know about my experiences [Will be soon (at the moment i don't have english resume)](Will be soon (at the moment i don't have english resume))
 
 - ⚡ Fun fact **I think Golang is the future**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
