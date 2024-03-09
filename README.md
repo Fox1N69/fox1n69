@@ -1,4 +1,4 @@
-<img src="./hello.gif" width="200" height="100"/>
+<img src="./hello.gif" width="200" height="100" align="center"/>
 <h1 align="center">Hi 👋, I'm Pavel Maksimovich</h1>
 <h3 align="center">I'am a junior software engineer.. My goal in this life is to develop useful software that will help most people. I have been interested in programming since I was 12 years old. I recently started learning Golang and decided to develop in the field of web development. I also study English hard to work abroad.</h3>
 
