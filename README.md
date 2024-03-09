@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think Golang is the future**
 
-<img src="./hello.gif"/>
+<img src="./hello.gif" width="40" height="40"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
