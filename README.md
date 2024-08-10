@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Will be soon](Will be soon)
 
-- 📫 How to reach me **diogoc1707@gmail.com, +79088755347, telegram - @fox1n69**
+- 📫 How to reach me **diogoc1707@gmail.com,telegram - @fox1n69**
 
 - 📄 Know about my experiences [Will be soon (at the moment i don't have english resume)](Will be soon (at the moment i don't have english resume))
 
